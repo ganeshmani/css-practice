@@ -1,4 +1,4 @@
 ## Basic FlexBox Design
 
-[demo](demo.jpg)
+![demo](demo.jpg)
 
